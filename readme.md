@@ -8,3 +8,6 @@ encoder_examples.py
 
 ### 从huggingface 加载数据集，并保持数据集，数据集中常见的一些工具
 dataset_tool.py
+
+### 评价指标
+evaluation.py
