@@ -11,3 +11,7 @@ dataset_tool.py
 
 ### 评价指标
 evaluation.py
+
+### 使用管道工具pipeline完成一些自然语言处理npl的任务
+#### 文本分类/情感分类
+nlp_tasks_pipeline.py
