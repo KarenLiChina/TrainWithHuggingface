@@ -22,3 +22,6 @@ evaluation.py
 #### translation ，可以指定模型
 #### pipeline中指定模型，tokenizer，可以进行其他的翻译
 nlp_tasks_pipeline.py
+
+## 基于预训练模型 进行微调，将微调后的模型进行存储，加载，从中间checkpoint处加载，使用模型进行预测
+trianingTool.py
