@@ -26,5 +26,5 @@ nlp_tasks_pipeline.py
 ## 基于预训练模型 进行微调，将微调后的模型进行存储，加载，从中间checkpoint处加载，使用模型进行预测
 trianingTool.py
 
-## 基于Bert的迁移学习，中文分类任务
+## 基于Bert的迁移学习，中文分类任务，用用预训练模型做特征提取，加下游神经网络，基于Bert的输出做下游模型训练
 chinese_classification_transfer_learning.py
